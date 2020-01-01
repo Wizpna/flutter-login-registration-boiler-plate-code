@@ -1,6 +1,6 @@
 # flutter-login-registration-boiler-plate-code
 
-<h3>This is a simple boiler plate code for Login/Singin & Register/SignUp Screen just change the image update the text and DONE...</h3>
+<h4>This is a simple boiler plate code for Login/Singin & Register/SignUp Screen just change the image update the text and DONE...</h4>
 
 
 <h3 align="center">Screenshots</h3>
