@@ -6,9 +6,9 @@ This is a simple boiler plate code for Login/Singin & Register/SignUp Screen jus
 
 Screenshots
 
-<img src="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-183924.png"  title="Google_Search">
-<img src="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-183954.png"  title="Google_Search">
-<img src="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-184002.png"  title="Google_Search">
+<img src="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-183924.png"  title="flutter-login-registration-boiler-plate-code" width="500" height="600">
+<img src="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-183954.png"  title="flutter-login-registration-boiler-plate-code" width="500" height="600">
+<img src="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-184002.png"  title="flutter-login-registration-boiler-plate-code" width="500" height="600">
 
 Contact - Let's become friends
 
