@@ -1,17 +1,11 @@
 # flutter-login-registration-boiler-plate-code
 
-This is a simple boiler plate code for Login/Singin & Register/SignUp Screen just change the image update the text and DONE...
+<h3>This is a simple boiler plate code for Login/Singin & Register/SignUp Screen just change the image update the text and DONE...</h3>
 
-<h3>Screenshots</h3>
+
+<h3 align="center">Screenshots</h3>
 
 <table>
-<thead>
-<tr>
-<th align="center">Uplabs design</th>
-<th align="center">Flutter rendering</th>
-  <th align="center">Flutter rendering</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-183924.png"><img src="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-183924.png" alt="original-design" style="max-width:100%;"></a></td>
