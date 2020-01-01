@@ -6,7 +6,9 @@ This is a simple boiler plate code for Login/Singin & Register/SignUp Screen jus
 
 Screenshots
 
-<img src="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-183924.png"  title="flutter-login-registration-boiler-plate-code"><img src="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-183954.png"  title="flutter-login-registration-boiler-plate-code"><img src="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-184002.png"  title="flutter-login-registration-boiler-plate-code">
+<img src="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-183924.png"  title="flutter-login-registration-boiler-plate-code">
+<img src="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-183954.png"  title="flutter-login-registration-boiler-plate-code">
+<img src="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-184002.png"  title="flutter-login-registration-boiler-plate-code">
 
 Contact - Let's become friends
 
@@ -20,12 +22,15 @@ Contact - Let's become friends
 <tr>
 <th align="center">Uplabs design</th>
 <th align="center">Flutter rendering</th>
+  <th align="center">Flutter rendering</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/huextrat/TheGorgeousLogin/blob/master/github/template.jpg"><img src="/huextrat/TheGorgeousLogin/raw/master/github/template.jpg" alt="original-design" style="max-width:100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/huextrat/TheGorgeousLogin/blob/master/github/login.gif"><img src="/huextrat/TheGorgeousLogin/raw/master/github/login.gif" alt="" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-183924.png"><img src="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-183924.png" alt="original-design" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-183954.png"><img src="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-183954.png" alt="" style="max-width:100%;"></a></td>
+  
+  <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-184002.png"><img src="https://github.com/Wizpna/flutter-login-registration-boiler-plate-code/blob/master/Screenshot_20191229-184002.png" alt="" style="max-width:100%;"></a></td>
 </tr>
 </tbody>
 </table>
